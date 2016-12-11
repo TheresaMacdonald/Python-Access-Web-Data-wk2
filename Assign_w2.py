@@ -1,3 +1,5 @@
+#open a text file, read the numbers, sum the numbers
+
 import re
 
 sum = 0
