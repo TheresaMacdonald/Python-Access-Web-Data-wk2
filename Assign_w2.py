@@ -15,7 +15,7 @@ for line in hand:
     else:
         for ans in answer:
             sum += int(ans)
-
+#print the final sum
 print(sum)
 
 
